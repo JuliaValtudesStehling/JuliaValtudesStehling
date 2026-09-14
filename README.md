@@ -1,16 +1,51 @@
-## Hi there 👋
+# Hi, I'm Julia 👋
 
-<!--
-**JuliaValtudesStehling/JuliaValtudesStehling** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student at PUC Minas, currently in the 4th semester.
 
-Here are some ideas to get you started:
+I'm interested in software development, data, artificial intelligence and cybersecurity.  
+I enjoy building practical projects and learning technologies that can be applied to real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technologies
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+## 🚀 Featured Project
+
+### ScamEye
+
+Web application developed as an interdisciplinary project at PUC Minas, focused on helping users identify and avoid digital scams.
+
+The project involved:
+
+- Frontend development
+- Backend integration
+- PostgreSQL database hosted on Neon
+- Integration with an AI API through a chatbot
+- News and informational content related to digital scams
+
+**Technologies:** HTML, CSS, JavaScript, SQL, PostgreSQL, Neon and APIs.
+
+## 📚 Currently learning
+
+- Power BI
+- Cybersecurity
+- Data Analysis
+- Automation
+- Artificial Intelligence applications
+
+## 📊 GitHub Stats
+
+![Julia's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuliaValtudesStehling&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuliaValtudesStehling&layout=compact)
+
+## 📫 Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julia-stehling-242891363/)
