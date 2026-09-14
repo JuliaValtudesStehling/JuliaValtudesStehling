@@ -37,7 +37,6 @@ The project involved:
 - Power BI
 - Cybersecurity
 - Data Analysis
-- Automation
 - Artificial Intelligence applications
 
 ## 📊 GitHub Stats
