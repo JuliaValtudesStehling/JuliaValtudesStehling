@@ -1,4 +1,4 @@
-# Hi, I'm Julia 👋
+
 
 Computer Science student at PUC Minas, currently in the 4th semester.
 
