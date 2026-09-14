@@ -39,12 +39,6 @@ The project involved:
 - Data Analysis
 - Artificial Intelligence applications
 
-## 📊 GitHub Stats
-
-![Julia's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuliaValtudesStehling&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuliaValtudesStehling&layout=compact)
-
 ## 📫 Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julia-stehling-242891363/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julia-stehling2306/)
